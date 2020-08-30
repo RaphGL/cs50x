@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 void pyramid();
-int check_positive(int n);
 
 int main()
 {
